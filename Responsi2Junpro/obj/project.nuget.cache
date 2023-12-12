@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "EfueP9xYUp1CmM+nhowSZsB5nNMWsxP8nJD2gRWqPsqAHGQ+Nu0pxnaYIuWxOrCjQ3ymmdIDJWLo9kjT38375Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Perwira Akhdan\\source\\repos\\Responsi2Junpro\\Responsi2Junpro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\Perwira Akhdan\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
